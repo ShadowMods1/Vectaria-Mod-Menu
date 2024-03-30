@@ -1,1 +1,1 @@
-# Vectaria-Mod-Menu
+Menu Toggle Key is "/"
